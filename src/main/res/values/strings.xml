@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Super!Market</string>
+    <string name="textview">textview</string>
+    <string name="delete">delete</string>
+</resources>
